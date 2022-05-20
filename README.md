@@ -1,1 +1,3 @@
-# Cambridge-Advanced-Level-Computer-Science--AS-
+# Cambridge-Advanced-Level-Computer-Science-AS
+
+# Pseudocode only my friend.
